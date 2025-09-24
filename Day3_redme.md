@@ -13,3 +13,7 @@ learing Networking with youtube .
  - IPV4  
  - IPV6  
  - MAC Address
+  
+  ## Cryptography  
+  CTF>101
+   [hashfunction](https://ctf101.org/cryptography/what-are-hashing-functions/)
